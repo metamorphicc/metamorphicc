@@ -24,8 +24,7 @@
 
 ### 🧭 Currently Working On:
 - 🔧 Building my own dApp 
-- ✍️ Writing an article about Gas Optimization in Solidity
-
+- ✍️ Making an amazing site where everyone may customize them own nft 
 
 <br>
 <hr>
