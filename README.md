@@ -17,9 +17,9 @@
 
 - *BEll DAO M3MBER :clubs:.*
 - *🎓 2nd-year college student majoring in Information Technology and Programming (Vocational Education)*
-- *Author of WEB3 CODING [ARTICLE](https://teletype.in/@rawzw/83_s6FMOQgn)* 
-- *Every day, I strive to be better than I was yesterday — self-improvement is my daily goal*
-- [All my important links in one](https://linktr.ee/morphcoder)
+- *:newspaper: Author of WEB3 CODING [ARTICLE](https://teletype.in/@rawzw/83_s6FMOQgn)* 
+- *:white_flower: Every day, I strive to be better than I was yesterday — self-improvement is my daily goal*
+- :link: [*All my important links in one*](https://linktr.ee/morphcoder)
 <hr>
 
 ### 🧭 Currently Working On:
