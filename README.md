@@ -15,7 +15,7 @@
 
 ### 🙋🏻‍♂️ **Briefly about me**
 
-- *BEll DAO M3MBER :clubs:.*
+- *:clubs:BEll DAO M3MBER*
 - *🎓 2nd-year college student majoring in Information Technology and Programming (Vocational Education)*
 - *:newspaper: Author of WEB3 CODING [ARTICLE](https://teletype.in/@rawzw/83_s6FMOQgn)* 
 - *:white_flower: Every day, I strive to be better than I was yesterday — self-improvement is my daily goal*
